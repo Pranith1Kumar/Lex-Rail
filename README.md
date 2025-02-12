@@ -2,6 +2,10 @@
 Developed an intelligent railway chatbot using AWS Lex to enhance customer experience by providing accurate responses for ticket bookings, train schedules, and station information. Integrated with AWS services for scalability, reliability, and security, the chatbot simplifies interactions and delivers personalized assistance to railway passengers.
 
 
+
+![Project Flow](https://github.com/Pranith1Kumar/Lex-Rail/blob/5cf9d4cbfcf23ccd7550d89151e0d79d448e6538/Lex%20Diagram_Flow_page-0001.jpg)
+
+
 Railway Chatbot using AWS Lex
 Project Overview: The Railway Chatbot using AWS Lex is a conversational AI project that 
 aims to enhance customer experience and streamline interactions in the railway industry. The 
@@ -37,16 +41,18 @@ and user interactions.
 to store and retrieve user data and chatbot responses.
 5. Frontend Framework: The chatbot uses a frontend framework such 
 as React or Angular to provide a user-friendly interface.
+
+
 Project Timeline:
 The project timeline is estimated to be 12 weeks, with the following milestones:
-1. Week 1-2: Project planning and requirements gathering
-2. Week 3-4: Design and development of the chatbot's NLP capabilities using AWS Lex
-3. Week 5-6: Integration with AWS services such as AWS Lambda, Amazon S3, and 
+1. Project planning and requirements gathering
+2. Design and development of the chatbot's NLP capabilities using AWS Lex
+3. Integration with AWS services such as AWS Lambda, Amazon S3, and 
 Amazon DynamoDB
-4. Week 7-8: Development of the chatbot's user-friendly interface using a frontend 
+4. Development of the chatbot's user-friendly interface using a frontend 
 framework
-5. Week 9-10: Testing and debugging of the chatbot
-6. Week 11-12: Deployment and maintenance of the chatbot
+5. Testing and debugging of the chatbot
+6. Deployment and maintenance of the chatbot
 Project Deliverables:
 1. A fully functional Railway Chatbot using AWS Lex
 2. A user-friendly interface that simplifies customer interactions and improves efficiency
